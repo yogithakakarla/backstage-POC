@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    backstage.io/kubernetes-id: backstage-POC
+    'backstage.io/kubernetes-id': backstage-POC
   name: backstage-POC
 spec:
   lifecycle: production
